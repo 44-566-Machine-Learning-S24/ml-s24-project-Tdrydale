@@ -1,2 +1,5 @@
 # 44-566 machine-learning project
-Repo for all project documents
+
+Overall, I think I have a good start to the project, I think that I did a good job cleaning up the data that I took in by removing some of the outliers that I didn't want in the data set, such as building with more than a certain amount of beds. At a certain point, I'd say that the building constitutes more of a hotel than a house which isn't what I'm looking for in this dataset. There were a lot of interesting things that I saw when working on this dataset, the main one being that during my linear regression, my line trended downward in price toward the higher sizes of homes. 
+
+The data set that I took in for this project has a lower correlation between its elements than I imagined it would, maybe in the future, I'll look into some different datasets to see if I can find some better-suited datasets for this project. I imagine that focusing on a certain city would help me get a better correlation because houses can be worth drastically different amounts depending on whether they are in the city or not.
